@@ -13,6 +13,7 @@ To run the client-side build:
 
 
 TODO: Look up/understand fragments
+TODO: Understand *PURE* Functions.
 
 
 Inline Styling: once you use react and javascript inline styling gets really interesting.

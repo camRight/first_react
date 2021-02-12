@@ -1,14 +1,21 @@
 # Getting Started with Create React App
 
 
-To install library:
+To install front-end library:
 
 `npx create-react-app client`
 
 
-To run the build:
+To run the client-side build:
 
 `npm run build`
+
+
+
+TODO: Look up/understand fragments
+
+
+Inline Styling: once you use react and javascript inline styling gets really interesting.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
